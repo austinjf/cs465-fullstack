@@ -61,3 +61,4 @@ connect();
 require('./models/travlr');
 require('./models/room');
 require('./models/meal');
+require('./models/user');
